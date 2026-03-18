@@ -1,0 +1,105 @@
+﻿Gêneros: 
+
+
+*Ação*
+Ação urbana: ex.: Homem-Aranha: Através do Aranhaverso, O protetor
+Ação militar: ex.: O Soldado do Resgate Ryan,  Rambo, Red - Aposentados e Perigosos
+Ação policial: ex.: Anjos da Lei, Tropa de Elite, John Wick 
+Ação de artes marciais: ex.: Karate Kid, Creed, O Tigre e o Dragão, Tudo em Todo o Lugar ao Mesmo Tempo
+Ação de ficção científica: ex.: Avatar, Planeta dos Macacos, Duna
+Ação de heróis: ex.: O Batman, Liga da Justiça de Zack Snyder, Os Vingadores
+Ação faroeste: Django Livre, Sete Homens e um Segredo, Era Uma Vez no Oeste
+
+
+*Animação*
+Animação infantil: ex.: O irmão Urso, Divertidamente, Lilo & Stitch
+Animação adulta: ex.: Túmulo de Vagalumes, Festa da Salsicha, 
+Animação de stop-motion: ex.: Coraline; A Noiva Cadáver; A Fuga das Galinhas, O Estranho Mundo de Jack
+Animação 2D: ex.: Eldorado, Aladdin, Bambi, 
+Animação 3D: ex.: Procurando Nemo, Toy Story, Soul
+
+
+*Aventura*
+Aventura épica: ex.: Senhor dos Anéis: A Sociedade do Anel, 007 - Operação Skyfall, Príncipe da Pérsia - As areias do tempo
+Aventura histórica: ex.: Tróia, 300, Gladiador
+Aventura científica: ex.: Star Wars, Os Guardiões das Galáxias, Eu, Robô
+Aventura de ação: ex.: Os mercenários, O Regresso, Mad Max: Estrada da Fúria
+Aventura de mistério: ex.: Scooby-Doo, Maze Runner, Enola Holmes 
+
+
+*Comédia*
+Comédia romântica: ex.: Uma Esposa de Mentirinha, Como se Fosse a Primeira Vez, Os Homens São de Marte e É Pra Lá Que Eu Vou, Minha Mãe é uma Peça
+Comédia de humor físico: ex.: Mr Bean, O Máscara, Mussun
+Comédia de sátira: ex.: Os vampiros que se mordam, Super-Herói: O filme, Borat
+Comédia besteirol: ex.: Gente Grande, American Pie, As branquelas
+
+
+*Documentário*
+Documentário de natureza: ex.: Nosso Planeta, A Marcha dos Pinguins, Born In China
+Documentário histórico: ex.: Quem Matou Malcolm X?, Guerras do Brasil.doc, Ascensão: Império Otomano
+Documentário de atualidades: ex.: O Dilema das Redes Sociais, Privacidade Hackeada, Inventando Anna, Nascido em Gaza
+Documentário de arte: ex.: AmarElo - É Tudo Pra Ontem, Laerte-se, Escada para o Céu: A arte de Cai Guo-Qiang
+
+
+
+
+*Drama*
+Drama histórico: ex.: Até o último homem; O último Samurai, Judas e o Messias Negro, Tetris
+Drama contemporâneo: ex.: Sempre ao seu Lado, Extraordinário
+Drama biográfico: ex.: Elis, Gal, Carandiru
+Drama familiar: ex.: A Baleia, Ponte Para Terabithia, Marley & Eu
+Drama social: ex.: Última Parada 174, Irmã Dulce, Um dia com Jerusa, Que Horas ele volta, Parasita, Infiltrado na Klan
+
+
+
+
+*Fantasia*
+Fantasia épica: ex.: Senhor dos Anéis, As Crônicas de Nárnia: O Leão, A Feiticeira e o Guarda Roupa, Harry Potter e a Pedra Filosofal
+Fantasia medieval: ex.: Coração de Dragão, Willow, Malévola, Eragon  
+Fantasia científica: ex.: Blade Runner, O Preço do Amanhã, No Limite do Amanhã
+Fantasia urbana: ex.: Bright, O Lar das Crianças Peculiares, Animais Fantásticos e Onde Habitam
+Fantasia infantil: ex.: Abracadabra, O Castelo Animado, As Viagens de Chihiro
+
+
+*Ficção*
+Ficção policial: ex.: Robocop, Batman Begins, Blade Runner 2048
+Ficção de espionagem: ex.: 007, Missão Impossível, Kingsman
+Ficção científica: ex.: Interestelar, 2001: Uma Odisséia no Espaço,  E.T
+Ficção histórica: ex.: Ben-Hur, 12 Anos de Escravidão, 10000 A.C
+
+
+*Musical*
+Musical biográfico: ex.: Bohemian Rhapsody, Tim Maia, Rocketman
+Musical de época: ex.: Os Miseráveis, Chicago, Grease
+Musical teen: ex.: High School Musical, Camp Rock, Escola de Rock
+
+
+*Romance*
+Romance clássico: ex.: Lendas da Paixão, Vestígios do Dia, Para Todos os Garotos que já Amei
+Romance histórico: ex.: Maria Antonieta, A Cozinheira de Castamar, Cidade de Gelo
+Romance contemporâneo: ex.: Através da Minha Janela, Cartas para Julieta, Alguém Avisa? 
+Romance de comédia: ex.: Tudo que Uma Garota Quer, Casamento Armado, Amor de Aluguel, Os Homens são de Marte e é pra lá que eu vou
+Romance de drama: ex.: After, La La Land: Cantando Estações, Crepúsculo, Me chame pelo seu nome, Juno
+
+
+*Terror*
+Terror sobrenatural: ex.: Atividade Paranormal, Invocação do Mal, Mama
+Terror psicológico: ex.: O iluminado, Fragmentado, Corra!
+Terror gore: ex.: A Morte do Demônio, Terrifier, Jogos Mortais
+Terror slasher: ex.: O Massacre da Serra Elétrica, Pânico, A Hora do Pesadelo
+Terror found footage: ex.: Atividade Paranormal, Cloverfield - Monstro, A visita
+
+
+*Suspense*
+Suspense policial: ex.: Tropa de Elite 2, Cidade de Deus, Bad Boy
+Suspense político: ex.: Snowden, V de Vingança, Operação Valquíria
+Suspense psicológico: ex.: Donnie Darko, Coringa, Observador
+Suspense de ação: ex.: Kill Bill, O impossível, Uma noite de Crime
+Suspense de terror: ex.: Ilha do Medo, A Casa Monstro, Sorria
+
+*Trash*
+Ex.: Tubarão; 
+Rubber, O Pneu Assassino;
+Anaconda;
+Sharknado;
+O Ataque dos Tomates Assassinos;
